@@ -19,7 +19,7 @@ I am currently mastering the following tools:
 ---
 
 ### 🎓 Education
-**B.S. in Data Science** | [BPP]
+**B.S. in Data Science** | BPP
 *Expected Graduation: 2028*
 * **Relevant Coursework:** Introduction to Data Science, Python Programming, Discrete Math.
 
