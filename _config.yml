@@ -1,5 +1,49 @@
-title: BP0323892 | Data Science Portfolio
+title: Data Science Portfolio | BP0323892
 logo: images/istockphoto-1389238948-612x612.jpg
-description: 1st Year Data Science Student at BPP. Passionate about Python, Statistics, and Data Visualization.
+description: |
+  First-Year Data Science Student at BPP University
+  
+  🐍 Python | 📊 Machine Learning | 📈 Statistics
+  
+  Building predictive models and uncovering insights from data
 show_downloads: true
 theme: jekyll-theme-minimal
+
+# Additional Jekyll configuration
+github:
+  is_project_page: false
+  
+# Social links (uncomment and add your links)
+# linkedin_username: your-linkedin
+# github_username: your-github
+# email: your.email@example.com
+
+# Google Analytics (optional)
+# google_analytics: UA-XXXXXXXXX-X
+
+# SEO and metadata
+lang: en-GB
+author: BP0323892
+
+# Permalink structure
+permalink: pretty
+
+# Markdown processor
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  
+# Plugins
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  
+# Exclude files from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .gitignore
+  - README_DEV.md
