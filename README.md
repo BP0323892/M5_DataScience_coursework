@@ -57,13 +57,7 @@ Built predictive models to analyze 1.69M Spotify chart entries across 73 countri
 
 **Techniques:** ETL Pipeline | Feature Engineering | Statistical Hypothesis Testing | Model Evaluation | Temporal Validation | Data Visualization
 
-[View Full Analysis →](Link_to_Jupyter_Notebook)
+[View Full Analysis →](https://github.com/BP0323892/M5_DataScience_coursework/blob/main/M5_coursework_spotify_15042026.ipynb)
 
----
-
-### 📫 Let's Connect
-* **LinkedIn:** [Your LinkedIn](Your_Link)
-* **Email:** your.email@example.com
-* **GitHub:** [@YourUsername](https://github.com/YourUsername)
 
 > **Note:** You can view the full source code for these projects by clicking the links above.
