@@ -34,7 +34,7 @@ I am currently mastering the following tools:
 
 | Project | Goal | Tech Stack | Key Findings |
 | :--- | :--- | :--- | :--- |
-| **[Spotify Popularity Prediction](Link_to_Repo)** | Predict song chart success from audio features across 73 countries using machine learning | Python, Pandas, Scikit-learn, Plotly, Seaborn | Audio features explain 25.7% of popularity variance. Discovered temporal distribution shift causing model degradation—demonstrating need for continuous retraining in cultural domains. |
+| **[Spotify Popularity Prediction](https://github.com/BP0323892/M5_DataScience_coursework/blob/main/M5_coursework_spotify_15042026.ipynb)** | Predict song chart success from audio features across 73 countries using machine learning | Python, Pandas, Scikit-learn, Plotly, Seaborn | Audio features explain 25.7% of popularity variance. Discovered temporal distribution shift causing model degradation—demonstrating need for continuous retraining in cultural domains. |
 
 ---
 
